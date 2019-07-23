@@ -1,4 +1,4 @@
-# ionic-stencil-capacitor
+# ionic4-stencil-capacitor
 this project contains ionic, stencil and capacitor setup !REF https://github.com/ionic-team/ionic-pwa-toolkit
 ```bash
 npm install
@@ -11,4 +11,4 @@ npx cap copy
 npm run-script build-cap
 ```
 
-Open Xcode and run ios/App/App.xcworkspace
+Open ios/App/App.xcworkspace in Xcode
