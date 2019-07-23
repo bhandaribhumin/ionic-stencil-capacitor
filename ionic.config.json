@@ -1,0 +1,7 @@
+{
+  "name": "stencil-ionic-cap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

@@ -1,0 +1,7 @@
+{
+  "appId": "com.3i.stenCapIonic",
+  "appName": "first",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
