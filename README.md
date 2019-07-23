@@ -1,5 +1,5 @@
 # ionic4-stencil-capacitor
-this project contains ionic, stencil and capacitor setup !REF https://github.com/ionic-team/ionic-pwa-toolkit
+this project contains ionic, stencil and capacitor setup
 ```bash
 npm install
 npm run build
