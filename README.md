@@ -10,3 +10,5 @@ npx cap add ios
 npx cap copy
 npm run-script build-cap
 ```
+
+Open Xcode and run ios/App/App.xcworkspace
