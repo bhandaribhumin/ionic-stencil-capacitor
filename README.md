@@ -12,3 +12,5 @@ npm run-script build-cap
 ```
 
 Open ios/App/App.xcworkspace in Xcode
+
+!REF https://github.com/ionic-team/ionic-pwa-toolkit
