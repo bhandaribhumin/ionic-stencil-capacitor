@@ -21,7 +21,7 @@
     "@ionic/core": "^4.6.2"
   },
   "devDependencies": {
-    "@capacitor/cli": "1.1.1",
+    "@capacitor/cli": "1.5.3",
     "@stencil/core": "^1.1.6",
     "@stencil/sass": "^1.0.1"
   }
